@@ -1,7 +1,7 @@
 /* CSS declarations go here */
 
 .sound1, .sound2, .sound3 {
-  padding: 10px;
-  margin: 10px;
+  padding: 20px;
+  margin: 40px;
   border: solid 1px #ccc;
 }
